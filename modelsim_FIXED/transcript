@@ -1,0 +1,27 @@
+# Compile of CALC_MAGNITUDE_AND_PHASE_FLOAT_POINT.v was successful.
+# Compile of CALC_MAGNITUDE_AND_PHASE_FLOAT_POINT_tb.v was successful.
+# Compile of nfp_add_single.v was successful.
+# Compile of nfp_atan2_single.v was successful.
+# Compile of nfp_mul_single.v was successful.
+# Compile of nfp_sqrt_single.v was successful.
+# 6 compiles, 0 failed with no errors.
+vsim -gui work.CALC_MAGNITUDE_AND_PHASE_FLOAT_POINT_tb
+# vsim -gui work.CALC_MAGNITUDE_AND_PHASE_FLOAT_POINT_tb 
+# Start time: 23:39:39 on Apr 05,2023
+# Loading work.CALC_MAGNITUDE_AND_PHASE_FLOAT_POINT_tb
+# Loading work.CALC_MAGNITUDE_AND_PHASE_FLOAT_POINT
+# Loading work.nfp_mul_single
+# Loading work.nfp_add_single
+# Loading work.nfp_sqrt_single
+# Loading work.nfp_atan2_single
+add wave -position end  sim:/CALC_MAGNITUDE_AND_PHASE_FLOAT_POINT_tb/o_MAGNITUDE_done
+add wave -position end  sim:/CALC_MAGNITUDE_AND_PHASE_FLOAT_POINT_tb/o_VALID_done
+add wave -position end  sim:/CALC_MAGNITUDE_AND_PHASE_FLOAT_POINT_tb/i_COMPLEX_VALUE_re_1
+add wave -position end  sim:/CALC_MAGNITUDE_AND_PHASE_FLOAT_POINT_tb/i_COMPLEX_VALUE_re_2
+run 10000
+# **************TEST COMPLETED (PASSED)**************
+# ** Note: $stop    : C:/3 course/AP/lab2/modelsim_FLOAD/CALC_MAGNITUDE_AND_PHASE_FLOAT_POINT_tb.v(489)
+#    Time: 160 ns  Iteration: 0  Instance: /CALC_MAGNITUDE_AND_PHASE_FLOAT_POINT_tb
+# Break in NamedBeginStat I_CLK_gen at C:/3 course/AP/lab2/modelsim_FLOAD/CALC_MAGNITUDE_AND_PHASE_FLOAT_POINT_tb.v line 489
+# End time: 23:43:22 on Apr 05,2023, Elapsed time: 0:03:43
+# Errors: 0, Warnings: 5

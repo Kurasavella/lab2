@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Tue Apr 04 14:29:50 2023
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : lab2_FIXED
+Top-level Entity Name : CALC_MAGNITUDE_AND_PHASE_FIXED_POINT
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 4495
+Total pins : 119
+Total virtual pins : 0
+Total block memory bits : 2,445
+Total DSP Blocks : 14
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0
+Total DLLs : 0

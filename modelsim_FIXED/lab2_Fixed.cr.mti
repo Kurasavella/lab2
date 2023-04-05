@@ -1,0 +1,43 @@
+{C:/3 course/AP/lab2/modelsim_FIXED/Sqrt.v} {1 {vlog -work work -stats=none {C:/3 course/AP/lab2/modelsim_FIXED/Sqrt.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Sqrt
+
+Top level modules:
+	Sqrt
+
+} {} {}} {C:/3 course/AP/lab2/modelsim_FIXED/nfp_atan2_single.v} {1 {vlog -work work -stats=none {C:/3 course/AP/lab2/modelsim_FIXED/nfp_atan2_single.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module nfp_atan2_single
+
+Top level modules:
+	nfp_atan2_single
+
+} {} {}} {C:/3 course/AP/lab2/modelsim_FIXED/CALC_MAGNITUDE_AND_PHASE_FIXED_POINT.v} {1 {vlog -work work -stats=none {C:/3 course/AP/lab2/modelsim_FIXED/CALC_MAGNITUDE_AND_PHASE_FIXED_POINT.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CALC_MAGNITUDE_AND_PHASE_FIXED_POINT
+
+Top level modules:
+	CALC_MAGNITUDE_AND_PHASE_FIXED_POINT
+
+} {} {}} {C:/3 course/AP/lab2/modelsim_FIXED/CALC_MAGNITUDE_AND_PHASE_FIXED_POINT_tb.v} {1 {vlog -work work -stats=none {C:/3 course/AP/lab2/modelsim_FIXED/CALC_MAGNITUDE_AND_PHASE_FIXED_POINT_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CALC_MAGNITUDE_AND_PHASE_FIXED_POINT_tb
+
+Top level modules:
+	CALC_MAGNITUDE_AND_PHASE_FIXED_POINT_tb
+
+} {} {}} {C:/3 course/AP/lab2/modelsim_FIXED/nfp_convert_single_to_sfix_16_En13.v} {1 {vlog -work work -stats=none {C:/3 course/AP/lab2/modelsim_FIXED/nfp_convert_single_to_sfix_16_En13.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module nfp_convert_single_to_sfix_16_En13
+
+Top level modules:
+	nfp_convert_single_to_sfix_16_En13
+
+} {} {}} {C:/3 course/AP/lab2/modelsim_FIXED/nfp_convert_sfix_32_En11_to_single.v} {1 {vlog -work work -stats=none {C:/3 course/AP/lab2/modelsim_FIXED/nfp_convert_sfix_32_En11_to_single.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module nfp_convert_sfix_32_En11_to_single
+
+Top level modules:
+	nfp_convert_sfix_32_En11_to_single
+
+} {} {}}

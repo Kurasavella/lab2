@@ -1,0 +1,151 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/3 course/AP/lab2/modelsim_FIXED
+vCALC_MAGNITUDE_AND_PHASE_FLOAT_POINT
+Z0 !s110 1680727165
+!i10b 1
+!s100 =3eGUkIfVC[WII;o_eFdZ1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I?Pa;K^86XTGS1UcQ;[bI42
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/3 course/AP/lab2/modelsim_FLOAD
+Z4 w1680725026
+8C:/3 course/AP/lab2/modelsim_FLOAD/CALC_MAGNITUDE_AND_PHASE_FLOAT_POINT.v
+FC:/3 course/AP/lab2/modelsim_FLOAD/CALC_MAGNITUDE_AND_PHASE_FLOAT_POINT.v
+!i122 0
+L0 42 273
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1680727165.000000
+!s107 C:/3 course/AP/lab2/modelsim_FLOAD/CALC_MAGNITUDE_AND_PHASE_FLOAT_POINT.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/3 course/AP/lab2/modelsim_FLOAD/CALC_MAGNITUDE_AND_PHASE_FLOAT_POINT.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+n@c@a@l@c_@m@a@g@n@i@t@u@d@e_@a@n@d_@p@h@a@s@e_@f@l@o@a@t_@p@o@i@n@t
+vCALC_MAGNITUDE_AND_PHASE_FLOAT_POINT_tb
+R0
+!i10b 1
+!s100 27a6Oa=@oRJXGngSFjKG]2
+R1
+I3Xe`SYUUOhROeHVF4:G?01
+R2
+R3
+w1680725033
+8C:/3 course/AP/lab2/modelsim_FLOAD/CALC_MAGNITUDE_AND_PHASE_FLOAT_POINT_tb.v
+FC:/3 course/AP/lab2/modelsim_FLOAD/CALC_MAGNITUDE_AND_PHASE_FLOAT_POINT_tb.v
+!i122 1
+L0 42 709
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/3 course/AP/lab2/modelsim_FLOAD/CALC_MAGNITUDE_AND_PHASE_FLOAT_POINT_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/3 course/AP/lab2/modelsim_FLOAD/CALC_MAGNITUDE_AND_PHASE_FLOAT_POINT_tb.v|
+!i113 1
+R7
+R8
+n@c@a@l@c_@m@a@g@n@i@t@u@d@e_@a@n@d_@p@h@a@s@e_@f@l@o@a@t_@p@o@i@n@t_tb
+vnfp_add_single
+Z9 !s110 1680727166
+!i10b 1
+!s100 Cg501iIVzNc6m7hQ6KzBV3
+R1
+I8m^JC^1UDNEmb5Tc2796]1
+R2
+R3
+w1680725025
+8C:/3 course/AP/lab2/modelsim_FLOAD/nfp_add_single.v
+FC:/3 course/AP/lab2/modelsim_FLOAD/nfp_add_single.v
+!i122 2
+L0 23 2708
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/3 course/AP/lab2/modelsim_FLOAD/nfp_add_single.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/3 course/AP/lab2/modelsim_FLOAD/nfp_add_single.v|
+!i113 1
+R7
+R8
+vnfp_atan2_single
+R9
+!i10b 1
+!s100 lLU=?PJP`4E=;ZMdz39[K1
+R1
+I=<V:U?8e_1k`7Jdj`UHJT2
+R2
+R3
+R4
+8C:/3 course/AP/lab2/modelsim_FLOAD/nfp_atan2_single.v
+FC:/3 course/AP/lab2/modelsim_FLOAD/nfp_atan2_single.v
+!i122 3
+L0 23 7602
+R5
+r1
+!s85 0
+31
+Z10 !s108 1680727166.000000
+!s107 C:/3 course/AP/lab2/modelsim_FLOAD/nfp_atan2_single.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/3 course/AP/lab2/modelsim_FLOAD/nfp_atan2_single.v|
+!i113 1
+R7
+R8
+vnfp_mul_single
+R9
+!i10b 1
+!s100 Oe:7@5D6M56P^ER?dCPn13
+R1
+IB3:dlJ:IE^fZEJ2a?lWIj0
+R2
+R3
+R4
+8C:/3 course/AP/lab2/modelsim_FLOAD/nfp_mul_single.v
+FC:/3 course/AP/lab2/modelsim_FLOAD/nfp_mul_single.v
+!i122 4
+L0 25 1560
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/3 course/AP/lab2/modelsim_FLOAD/nfp_mul_single.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/3 course/AP/lab2/modelsim_FLOAD/nfp_mul_single.v|
+!i113 1
+R7
+R8
+vnfp_sqrt_single
+R9
+!i10b 1
+!s100 I5edMeeaZ:7S<3O9WcXE_0
+R1
+I_T^2;6j]8S`zO78iUglE:1
+R2
+R3
+R4
+8C:/3 course/AP/lab2/modelsim_FLOAD/nfp_sqrt_single.v
+FC:/3 course/AP/lab2/modelsim_FLOAD/nfp_sqrt_single.v
+!i122 5
+L0 23 4140
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/3 course/AP/lab2/modelsim_FLOAD/nfp_sqrt_single.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/3 course/AP/lab2/modelsim_FLOAD/nfp_sqrt_single.v|
+!i113 1
+R7
+R8

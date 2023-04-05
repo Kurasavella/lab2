@@ -1,0 +1,20 @@
+Fitter Status : Successful - Tue Apr 04 14:35:20 2023
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : lab2_FIXED
+Top-level Entity Name : CALC_MAGNITUDE_AND_PHASE_FIXED_POINT
+Family : Cyclone V
+Device : 5CGXFC7C7F23C8
+Timing Models : Final
+Logic utilization (in ALMs) : 3,138 / 56,480 ( 6 % )
+Total registers : 4006
+Total pins : 119 / 268 ( 44 % )
+Total virtual pins : 0
+Total block memory bits : 2,445 / 7,024,640 ( < 1 % )
+Total RAM Blocks : 11 / 686 ( 2 % )
+Total DSP Blocks : 14 / 156 ( 9 % )
+Total HSSI RX PCSs : 0 / 6 ( 0 % )
+Total HSSI PMA RX Deserializers : 0 / 6 ( 0 % )
+Total HSSI TX PCSs : 0 / 6 ( 0 % )
+Total HSSI PMA TX Serializers : 0 / 6 ( 0 % )
+Total PLLs : 0 / 13 ( 0 % )
+Total DLLs : 0 / 4 ( 0 % )

@@ -1,0 +1,5 @@
+Fixed/CALC_MAGNITUDE_AND_PHASE_FIXED_POINT/Sqrt --> Sqrt
+Fixed/CALC_MAGNITUDE_AND_PHASE_FIXED_POINT/nfp_atan2_single --> nfp_atan2_single
+Fixed/CALC_MAGNITUDE_AND_PHASE_FIXED_POINT/nfp_convert_sfix_32_En11_to_single --> nfp_convert_sfix_32_En11_to_single
+Fixed/CALC_MAGNITUDE_AND_PHASE_FIXED_POINT/nfp_convert_single_to_sfix_16_En13 --> nfp_convert_single_to_sfix_16_En13
+Fixed/CALC_MAGNITUDE_AND_PHASE_FIXED_POINT --> CALC_MAGNITUDE_AND_PHASE_FIXED_POINT

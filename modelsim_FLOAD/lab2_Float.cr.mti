@@ -1,0 +1,43 @@
+{C:/3 course/AP/lab2/modelsim_FLOAD/CALC_MAGNITUDE_AND_PHASE_FLOAT_POINT.v} {1 {vlog -work work -stats=none {C:/3 course/AP/lab2/modelsim_FLOAD/CALC_MAGNITUDE_AND_PHASE_FLOAT_POINT.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CALC_MAGNITUDE_AND_PHASE_FLOAT_POINT
+
+Top level modules:
+	CALC_MAGNITUDE_AND_PHASE_FLOAT_POINT
+
+} {} {}} {C:/3 course/AP/lab2/modelsim_FLOAD/nfp_add_single.v} {1 {vlog -work work -stats=none {C:/3 course/AP/lab2/modelsim_FLOAD/nfp_add_single.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module nfp_add_single
+
+Top level modules:
+	nfp_add_single
+
+} {} {}} {C:/3 course/AP/lab2/modelsim_FLOAD/CALC_MAGNITUDE_AND_PHASE_FLOAT_POINT_tb.v} {1 {vlog -work work -stats=none {C:/3 course/AP/lab2/modelsim_FLOAD/CALC_MAGNITUDE_AND_PHASE_FLOAT_POINT_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CALC_MAGNITUDE_AND_PHASE_FLOAT_POINT_tb
+
+Top level modules:
+	CALC_MAGNITUDE_AND_PHASE_FLOAT_POINT_tb
+
+} {} {}} {C:/3 course/AP/lab2/modelsim_FLOAD/nfp_sqrt_single.v} {1 {vlog -work work -stats=none {C:/3 course/AP/lab2/modelsim_FLOAD/nfp_sqrt_single.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module nfp_sqrt_single
+
+Top level modules:
+	nfp_sqrt_single
+
+} {} {}} {C:/3 course/AP/lab2/modelsim_FLOAD/nfp_mul_single.v} {1 {vlog -work work -stats=none {C:/3 course/AP/lab2/modelsim_FLOAD/nfp_mul_single.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module nfp_mul_single
+
+Top level modules:
+	nfp_mul_single
+
+} {} {}} {C:/3 course/AP/lab2/modelsim_FLOAD/nfp_atan2_single.v} {1 {vlog -work work -stats=none {C:/3 course/AP/lab2/modelsim_FLOAD/nfp_atan2_single.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module nfp_atan2_single
+
+Top level modules:
+	nfp_atan2_single
+
+} {} {}}
